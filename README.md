@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Sanjith+Shyam+Sundar;CS+%26+AI+Student+@+The+University+of+Surrey;Building+Cool+Things)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjith-shyam-sundar-708a8226b/)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0drman0o0o&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0drman0o0o&layout=compact&theme=tokyonight)
