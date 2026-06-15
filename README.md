@@ -4,6 +4,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0drman0o0o&show_icons=true&theme=tokyonight)
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=c0drman0o0o&theme=tokyonight&row=1)](https://github.com/c0drman0o0o)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0drman0o0o&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=c0drman0o0o&theme=tokyonight)
