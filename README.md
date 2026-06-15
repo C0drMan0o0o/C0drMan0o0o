@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0drman0o0o&show_icons=true&theme=tokyonight)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=c0drman0o0o&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/c0drman0o0o)
+![Visitors](https://komarev.com/ghpvc/?username=c0drman0o0o&color=58A6FF&style=for-the-badge)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0drman0o0o&layout=compact&theme=tokyonight)
 
