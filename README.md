@@ -6,5 +6,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-![Skills](https://skillicons.dev/icons?i=swift,python,cpp,git,linux,vscode)
+![Skills](https://skillicons.dev/icons?i=swift,python,cpp,java,linux,vscode,xcode)
 
