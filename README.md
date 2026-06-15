@@ -2,4 +2,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0drman0o0o&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?c0drman0o0o=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0drman0o0o&layout=compact&theme=tokyonight)
