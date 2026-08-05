@@ -7,7 +7,7 @@
 
 ![Top Languages](https://sanjith-github-readme-stats.vercel.app/api/top-langs/?username=c0drman0o0o&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=c0drman0o0o&theme=tokyonight)
+![GitHub Streak](./streak.svg)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
